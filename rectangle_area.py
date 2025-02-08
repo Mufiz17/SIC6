@@ -4,6 +4,6 @@ def calculate_area(width: float, length: float) -> float:
 
 # Contoh penggunaan
 width = 5
-length = 10
+length = 1
 area = calculate_area(width, length)
 print(f"Luas: {area}")
